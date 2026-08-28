@@ -1,0 +1,1 @@
+# strat-open-video
